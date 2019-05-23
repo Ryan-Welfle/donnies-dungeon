@@ -6,7 +6,7 @@ Created on Thu Feb 21 16:43:51 2019
 
 Notes about this game...
 
-This was created using Spyder 3.3.2, and thus would best be run via that environment
+This was created using Spyder 3.3.2, and thus would best be run via that environment.
 
 Total number of questions (not including first question that starts game): 48
 
