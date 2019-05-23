@@ -10,6 +10,7 @@ Notes about my game (can also be found in my .py file, at the top in comments):
 - Total number of questions in the entire game (not including first question that starts game): 48
 
 - Number of questions in "winning" pathway: 20
+
 Pathway to take to win (not including first question that starts game):
 
 - A, B, yes, a, a, a, no, no, yes, b, b, a, b, b, a, b, b, b, b, a (or) b
